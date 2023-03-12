@@ -29,3 +29,6 @@ The script used is rm
 
 9 - Bye bye My first directory
 The script used is rmdir
+
+10 - Back to the future
+The script used is cd -
