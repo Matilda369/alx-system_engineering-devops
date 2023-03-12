@@ -14,3 +14,6 @@ The script used is ls -l
 
 4 - Hidden files
 The script used is ls -la
+
+5 - I love numbers
+The script used is ls -la -n
