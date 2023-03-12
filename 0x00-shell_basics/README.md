@@ -47,3 +47,6 @@ The script used is cp -u
 
 15 - Let’s move
 The script used is mv
+
+16 - Clean Emacs
+The script used is rm
