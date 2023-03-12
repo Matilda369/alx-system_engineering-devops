@@ -56,3 +56,6 @@ The script used is mkdir -p
 
 18 - Life is a series of commas, not periods
 The script used is ls
+
+19 - File type: School
+The script used creates a magic file
