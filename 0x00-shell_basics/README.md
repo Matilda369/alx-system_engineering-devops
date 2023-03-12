@@ -8,3 +8,6 @@ The script used is ls
 
 2 - There is no place like home
 The script used is cd ~
+
+3 - The long format
+The script used is ls -l
