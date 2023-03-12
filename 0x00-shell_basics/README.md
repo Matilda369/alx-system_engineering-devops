@@ -20,3 +20,6 @@ The script used is ls -la -n
 
 6 - Welcome
 The script used is mkdir
+
+7 - Betty in my first directory
+The script used is mv
