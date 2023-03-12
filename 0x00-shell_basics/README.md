@@ -26,3 +26,6 @@ The script used is mv
 
 8 - Bye bye Betty
 The script used is rm
+
+9 - Bye bye My first directory
+The script used is rmdir
