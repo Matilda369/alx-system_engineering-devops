@@ -41,3 +41,6 @@ The script used is file
 
 13 - We are symbols, and inhabit symbols
 The script used is ln -s
+
+14 - Copy HTML files
+The script used is cp -u
