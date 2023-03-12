@@ -35,3 +35,6 @@ The script used is cd -
 
 11 - Lists
 The script used is ls -la
+
+12 - File type
+The script used is file
