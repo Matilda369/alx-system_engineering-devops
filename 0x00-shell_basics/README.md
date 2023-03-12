@@ -32,3 +32,6 @@ The script used is rmdir
 
 10 - Back to the future
 The script used is cd -
+
+11 - Lists
+The script used is ls -la
