@@ -53,3 +53,6 @@ The script used is rm
 
 17 - Tree
 The script used is mkdir -p
+
+18 - Life is a series of commas, not periods
+The script used is ls
