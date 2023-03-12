@@ -44,3 +44,6 @@ The script used is ln -s
 
 14 - Copy HTML files
 The script used is cp -u
+
+15 - Let’s move
+The script used is mv
