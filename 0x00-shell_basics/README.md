@@ -38,3 +38,6 @@ The script used is ls -la
 
 12 - File type
 The script used is file
+
+13 - We are symbols, and inhabit symbols
+The script used is ln -s
