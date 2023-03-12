@@ -17,3 +17,6 @@ The script used is ls -la
 
 5 - I love numbers
 The script used is ls -la -n
+
+6 - Welcome
+The script used is mkdir
