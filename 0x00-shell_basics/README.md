@@ -11,3 +11,6 @@ The script used is cd ~
 
 3 - The long format
 The script used is ls -l
+
+4 - Hidden files
+The script used is ls -la
