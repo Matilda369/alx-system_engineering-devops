@@ -23,3 +23,6 @@ The script used is mkdir
 
 7 - Betty in my first directory
 The script used is mv
+
+8 - Bye bye Betty
+The script used is rm
